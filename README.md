@@ -20,3 +20,10 @@ Sales of video games and their corresponding consoles (Xbox, PS, Nintendo) by re
 
 What kind of correlations are there between people that work and people that play video games?
 
+Our research will conclude the correlation between the Unemployment rate in the United States to the Sales of video games in North America.
+
+Our findings will include years of sales and years of high or low unemployment.
+We will find which video games received most sales and at which years did they perform well.
+We will also see which platforms did considerably well in North America.
+
+Finally, we will conclude with the correlation between the two datasets to see when sales were highest and lowest in relation to the years with lowest and highest Unemployment rate within the United States. 
