@@ -1,0 +1,218 @@
+,DATE,Unemployment Rate,Indicator,un-year,Month,Name,Platform,Year,Genre,Publisher,NA_Sales,EU_Sales,JP_Sales,Other_Sales,Global_Sales,Critic_Score,Critic_Count,User_Score,User_Count,Developer,Rating
+0,2000-01-01,4.0,Low,2000,January,Wii Sports,Wii,2006.0,Sports,Nintendo,41.36,28.96,3.77,8.45,82.53,76.0,51.0,8.0,322.0,Nintendo,E
+1,2000-02-01,4.1,Low,2000,February,Mario Kart Wii,Wii,2008.0,Racing,Nintendo,15.68,12.76,3.79,3.29,35.52,82.0,73.0,8.3,709.0,Nintendo,E
+2,2000-03-01,4.0,Low,2000,March,Wii Sports Resort,Wii,2009.0,Sports,Nintendo,15.61,10.93,3.28,2.95,32.77,80.0,73.0,8.0,192.0,Nintendo,E
+3,2000-04-01,3.8,Low,2000,April,New Super Mario Bros.,DS,2006.0,Platform,Nintendo,11.28,9.14,6.5,2.88,29.8,89.0,65.0,8.5,431.0,Nintendo,E
+4,2000-05-01,4.0,Low,2000,May,Wii Play,Wii,2006.0,Misc,Nintendo,13.96,9.18,2.93,2.84,28.92,58.0,41.0,6.6,129.0,Nintendo,E
+5,2000-06-01,4.0,Low,2000,June,New Super Mario Bros. Wii,Wii,2009.0,Platform,Nintendo,14.44,6.94,4.7,2.24,28.32,87.0,80.0,8.4,594.0,Nintendo,E
+6,2000-07-01,4.0,Low,2000,July,Mario Kart DS,DS,2005.0,Racing,Nintendo,9.71,7.47,4.13,1.9,23.21,91.0,64.0,8.6,464.0,Nintendo,E
+7,2000-08-01,4.1,Low,2000,August,Wii Fit,Wii,2007.0,Sports,Nintendo,8.92,8.03,3.6,2.15,22.7,80.0,63.0,7.7,146.0,Nintendo,E
+8,2000-09-01,3.9,Low,2000,September,Kinect Adventures!,X360,2010.0,Misc,Microsoft Game Studios,15.0,4.89,0.24,1.69,21.81,61.0,45.0,6.3,106.0,Good Science Studio,E
+9,2000-10-01,3.9,Low,2000,October,Wii Fit Plus,Wii,2009.0,Sports,Nintendo,9.01,8.49,2.53,1.77,21.79,80.0,33.0,7.4,52.0,Nintendo,E
+10,2000-11-01,3.9,Low,2000,November,Grand Theft Auto V,PS3,2013.0,Action,Take-Two Interactive,7.02,9.09,0.98,3.96,21.04,97.0,50.0,8.2,3994.0,Rockstar North,M
+11,2000-12-01,3.9,Low,2000,December,Grand Theft Auto: San Andreas,PS2,2004.0,Action,Take-Two Interactive,9.43,0.4,0.41,10.57,20.81,95.0,80.0,9.0,1588.0,Rockstar North,M
+12,2001-01-01,4.2,Low,2001,January,Brain Age: Train Your Brain in Minutes a Day,DS,2005.0,Misc,Nintendo,4.74,9.2,4.16,2.04,20.15,77.0,58.0,7.9,50.0,Nintendo,E
+13,2001-02-01,4.2,Low,2001,February,Grand Theft Auto V,X360,2013.0,Action,Take-Two Interactive,9.66,5.14,0.06,1.41,16.27,97.0,58.0,8.1,3711.0,Rockstar North,M
+14,2001-03-01,4.3,Low,2001,March,Grand Theft Auto: Vice City,PS2,2002.0,Action,Take-Two Interactive,8.41,5.49,0.47,1.78,16.15,95.0,62.0,8.7,730.0,Rockstar North,M
+15,2001-04-01,4.4,Low,2001,April,Brain Age 2: More Training in Minutes a Day,DS,2005.0,Puzzle,Nintendo,3.43,5.35,5.32,1.18,15.29,77.0,37.0,7.1,19.0,Nintendo,E
+16,2001-05-01,4.3,Low,2001,May,Gran Turismo 3: A-Spec,PS2,2001.0,Racing,Sony Computer Entertainment,6.85,5.09,1.87,1.16,14.98,95.0,54.0,8.4,314.0,Polyphony Digital,E
+17,2001-06-01,4.5,Low,2001,June,Call of Duty: Modern Warfare 3,X360,2011.0,Shooter,Activision,9.04,4.24,0.13,1.32,14.73,88.0,81.0,3.4,8713.0,"Infinity Ward, Sledgehammer Games",M
+18,2001-07-01,4.6,Low,2001,July,Call of Duty: Black Ops,X360,2010.0,Shooter,Activision,9.7,3.68,0.11,1.13,14.61,87.0,89.0,6.3,1454.0,Treyarch,M
+19,2001-08-01,4.9,Low,2001,August,Call of Duty: Black Ops II,PS3,2012.0,Shooter,Activision,4.99,5.73,0.65,2.42,13.79,83.0,21.0,5.3,922.0,Treyarch,M
+20,2001-09-01,5.0,High,2001,September,Call of Duty: Black Ops II,X360,2012.0,Shooter,Activision,8.25,4.24,0.07,1.12,13.67,83.0,73.0,4.8,2256.0,Treyarch,M
+21,2001-10-01,5.3,High,2001,October,Call of Duty: Modern Warfare 2,X360,2009.0,Shooter,Activision,8.52,3.59,0.08,1.28,13.47,94.0,100.0,6.3,2698.0,Infinity Ward,M
+22,2001-11-01,5.5,High,2001,November,Call of Duty: Modern Warfare 3,PS3,2011.0,Shooter,Activision,5.54,5.73,0.49,1.57,13.32,88.0,39.0,3.2,5234.0,"Infinity Ward, Sledgehammer Games",M
+23,2001-12-01,5.7,High,2001,December,Grand Theft Auto III,PS2,2001.0,Action,Take-Two Interactive,6.99,4.51,0.3,1.3,13.1,97.0,56.0,8.5,664.0,DMA Design,M
+24,2002-01-01,5.7,High,2002,January,Super Smash Bros. Brawl,Wii,2008.0,Fighting,Nintendo,6.62,2.55,2.66,1.01,12.84,93.0,81.0,8.9,1662.0,Game Arts,T
+25,2002-02-01,5.7,High,2002,February,Mario Kart 7,3DS,2011.0,Racing,Nintendo,5.03,4.02,2.69,0.91,12.66,85.0,73.0,8.2,632.0,"Retro Studios, Entertainment Analysis & Development Division",E
+26,2002-03-01,5.7,High,2002,March,Call of Duty: Black Ops,PS3,2010.0,Shooter,Activision,5.99,4.37,0.48,1.79,12.63,88.0,58.0,6.4,1094.0,Treyarch,M
+27,2002-04-01,5.9,High,2002,April,Grand Theft Auto V,PS4,2014.0,Action,Take-Two Interactive,3.96,6.31,0.38,1.97,12.61,97.0,66.0,8.3,2899.0,Rockstar North,M
+28,2002-05-01,5.8,High,2002,May,Animal Crossing: Wild World,DS,2005.0,Simulation,Nintendo,2.5,3.45,5.33,0.86,12.13,86.0,57.0,8.7,242.0,Nintendo,E
+29,2002-06-01,5.8,High,2002,June,Halo 3,X360,2007.0,Shooter,Microsoft Game Studios,7.97,2.81,0.13,1.21,12.12,94.0,86.0,7.8,4100.0,"Bungie Software, Bungie",M
+30,2002-07-01,5.8,High,2002,July,Gran Turismo 4,PS2,2004.0,Racing,Sony Computer Entertainment,3.01,0.01,1.1,7.53,11.66,89.0,74.0,8.5,272.0,Polyphony Digital,E
+31,2002-08-01,5.7,High,2002,August,Super Mario Galaxy,Wii,2007.0,Platform,Nintendo,6.06,3.35,1.2,0.74,11.35,97.0,73.0,8.9,2147.0,Nintendo,E
+32,2002-09-01,5.7,High,2002,September,Grand Theft Auto IV,X360,2008.0,Action,Take-Two Interactive,6.76,3.07,0.14,1.03,11.01,98.0,86.0,7.9,2951.0,Rockstar North,M
+33,2002-10-01,5.7,High,2002,October,Gran Turismo,PS,1997.0,Racing,Sony Computer Entertainment,4.02,3.87,2.54,0.52,10.95,96.0,16.0,8.7,138.0,Polyphony Digital,E
+34,2002-11-01,5.9,High,2002,November,Super Mario 3D Land,3DS,2011.0,Platform,Nintendo,4.89,3.0,2.14,0.78,10.81,90.0,82.0,8.4,921.0,Nintendo,E
+35,2002-12-01,6.0,High,2002,December,Gran Turismo 5,PS3,2010.0,Racing,Sony Computer Entertainment,2.96,4.82,0.81,2.11,10.7,84.0,82.0,7.5,1112.0,Polyphony Digital,E
+36,2003-01-01,5.8,High,2003,January,Call of Duty: Modern Warfare 2,PS3,2009.0,Shooter,Activision,4.99,3.64,0.38,1.6,10.6,94.0,67.0,6.3,2073.0,Infinity Ward,M
+37,2003-02-01,5.9,High,2003,February,Grand Theft Auto IV,PS3,2008.0,Action,Take-Two Interactive,4.76,3.69,0.44,1.61,10.5,98.0,64.0,7.5,2833.0,Rockstar North,M
+38,2003-03-01,5.9,High,2003,March,Call of Duty: Ghosts,X360,2013.0,Shooter,Activision,6.73,2.56,0.04,0.91,10.25,73.0,29.0,2.6,2117.0,Infinity Ward,M
+39,2003-04-01,6.0,High,2003,April,Just Dance 3,Wii,2011.0,Misc,Ubisoft,5.95,3.11,0.0,1.06,10.12,74.0,15.0,7.8,16.0,Ubisoft,E10+
+40,2003-05-01,6.1,High,2003,May,New Super Mario Bros. 2,3DS,2012.0,Platform,Nintendo,3.66,3.14,2.47,0.63,9.9,78.0,70.0,7.2,424.0,Nintendo,E
+41,2003-06-01,6.3,High,2003,June,Halo: Reach,X360,2010.0,Shooter,Microsoft Game Studios,7.04,1.95,0.08,0.79,9.86,91.0,99.0,7.9,2045.0,Bungie,M
+42,2003-07-01,6.2,High,2003,July,Final Fantasy VII,PS,1997.0,Role-Playing,Sony Computer Entertainment,3.01,2.47,3.28,0.96,9.72,92.0,20.0,9.2,1282.0,SquareSoft,T
+43,2003-08-01,6.1,High,2003,August,Halo 4,X360,2012.0,Shooter,Microsoft Game Studios,6.65,2.28,0.04,0.74,9.71,87.0,87.0,7.0,3260.0,343 Industries,M
+44,2003-09-01,6.1,High,2003,September,Gran Turismo 2,PS,1999.0,Racing,Sony Computer Entertainment,3.88,3.42,1.69,0.5,9.49,93.0,23.0,9.0,135.0,Polyphony Digital,T
+45,2003-10-01,6.0,High,2003,October,Just Dance 2,Wii,2010.0,Misc,Ubisoft,5.8,2.85,0.01,0.78,9.44,74.0,24.0,7.3,24.0,Ubisoft,E10+
+46,2003-11-01,5.8,High,2003,November,Call of Duty: Ghosts,PS3,2013.0,Shooter,Activision,4.1,3.63,0.38,1.25,9.36,71.0,10.0,2.6,1047.0,Infinity Ward,M
+47,2003-12-01,5.7,High,2003,December,Call of Duty 4: Modern Warfare,X360,2007.0,Shooter,Activision,5.93,2.36,0.13,0.9,9.31,94.0,70.0,8.4,1320.0,Infinity Ward,M
+48,2004-01-01,5.7,High,2004,January,Animal Crossing: New Leaf,3DS,2012.0,Simulation,Nintendo,2.03,2.36,4.39,0.39,9.16,88.0,70.0,8.7,626.0,Nintendo,E
+49,2004-02-01,5.6,High,2004,February,Mario Party DS,DS,2007.0,Misc,Nintendo,4.4,1.85,1.98,0.68,8.91,72.0,27.0,7.8,85.0,Hudson Soft,E
+50,2004-03-01,5.8,High,2004,March,The Elder Scrolls V: Skyrim,X360,2011.0,Role-Playing,Bethesda Softworks,5.05,2.79,0.1,0.85,8.79,96.0,89.0,8.4,3589.0,Bethesda Game Studios,M
+51,2004-04-01,5.6,High,2004,April,FIFA 16,PS4,2015.0,Sports,Electronic Arts,1.12,6.12,0.06,1.28,8.57,82.0,42.0,4.3,896.0,EA Sports,E
+52,2004-05-01,5.6,High,2004,May,Halo 2,XB,2004.0,Shooter,Microsoft Game Studios,6.82,1.53,0.05,0.08,8.49,95.0,91.0,8.2,1218.0,Bungie Software,M
+53,2004-06-01,5.6,High,2004,June,Wii Party,Wii,2010.0,Misc,Nintendo,1.75,3.47,2.49,0.67,8.38,68.0,42.0,7.4,54.0,Nd Cube,E
+54,2004-07-01,5.5,High,2004,July,Mario Party 8,Wii,2007.0,Misc,Nintendo,3.74,2.24,1.58,0.7,8.27,62.0,41.0,6.3,190.0,Hudson,E
+55,2004-08-01,5.4,High,2004,August,FIFA Soccer 13,PS3,2012.0,Action,Electronic Arts,1.06,5.01,0.13,1.97,8.16,88.0,37.0,6.6,348.0,Electronic Arts,E
+56,2004-09-01,5.4,High,2004,September,Final Fantasy X,PS2,2001.0,Role-Playing,Sony Computer Entertainment,2.91,2.07,2.73,0.33,8.05,92.0,53.0,8.7,1056.0,SquareSoft,T
+57,2004-10-01,5.5,High,2004,October,The Sims 3,PC,2009.0,Simulation,Electronic Arts,0.99,6.42,0.0,0.6,8.01,86.0,75.0,7.6,886.0,The Sims Studio,T
+58,2004-11-01,5.4,High,2004,November,Final Fantasy VIII,PS,1999.0,Role-Playing,SquareSoft,2.28,1.72,3.63,0.23,7.86,90.0,24.0,8.6,644.0,SquareSoft,T
+59,2004-12-01,5.4,High,2004,December,Pokémon Platinum Version,DS,2008.0,Role-Playing,Nintendo,2.76,1.72,2.69,0.54,7.72,83.0,46.0,8.5,203.0,Game Freak,E
+60,2005-01-01,5.3,High,2005,January,Grand Theft Auto: Liberty City Stories,PSP,2005.0,Action,Take-Two Interactive,2.9,2.81,0.24,1.73,7.69,88.0,65.0,7.6,451.0,Rockstar Leeds,M
+61,2005-02-01,5.4,High,2005,February,Call of Duty: Advanced Warfare,PS4,2014.0,Shooter,Activision,2.81,3.48,0.14,1.23,7.66,83.0,39.0,5.7,1443.0,Sledgehammer Games,M
+62,2005-03-01,5.2,High,2005,March,FIFA 17,PS4,2016.0,Sports,Electronic Arts,0.66,5.75,0.08,1.11,7.59,85.0,41.0,5.0,398.0,"EA Sports, EA Vancouver",E
+63,2005-04-01,5.2,High,2005,April,Super Mario Galaxy 2,Wii,2010.0,Platform,Nintendo,3.56,2.35,0.98,0.62,7.51,97.0,87.0,9.1,1854.0,Nintendo EAD Tokyo,E
+64,2005-05-01,5.1,High,2005,May,Call of Duty: World at War,X360,2008.0,Shooter,Activision,4.81,1.88,0.0,0.69,7.38,84.0,84.0,7.6,580.0,Treyarch,M
+65,2005-06-01,5.0,High,2005,June,Battlefield 3,X360,2011.0,Shooter,Electronic Arts,4.46,2.11,0.06,0.69,7.32,84.0,57.0,7.4,2142.0,EA DICE,M
+66,2005-07-01,5.0,High,2005,July,Need for Speed Underground,PS2,2003.0,Racing,Electronic Arts,3.27,2.83,0.08,1.02,7.2,85.0,33.0,8.6,171.0,EA Black Box,E
+67,2005-08-01,4.9,Low,2005,August,Just Dance,Wii,2009.0,Misc,Ubisoft,3.48,2.99,0.0,0.73,7.2,49.0,21.0,8.0,110.0,Ubisoft Paris,E10+
+68,2005-09-01,5.0,High,2005,September,Battlefield 3,PS3,2011.0,Shooter,Electronic Arts,2.85,2.89,0.35,1.08,7.17,85.0,38.0,7.5,1761.0,EA DICE,M
+69,2005-10-01,5.0,High,2005,October,Fallout 4,PS4,2015.0,Role-Playing,Bethesda Softworks,2.53,3.27,0.24,1.13,7.16,87.0,58.0,6.5,4228.0,Bethesda Game Studios,M
+70,2005-11-01,5.0,High,2005,November,Tekken 3,PS,1998.0,Fighting,Sony Computer Entertainment,3.27,2.22,1.4,0.29,7.16,96.0,15.0,9.1,367.0,Namco,T
+71,2005-12-01,4.9,Low,2005,December,The Legend of Zelda: Twilight Princess,Wii,2006.0,Action,Nintendo,3.74,2.14,0.6,0.68,7.15,95.0,73.0,9.0,1658.0,Nintendo,T
+72,2006-01-01,4.7,Low,2006,January,Crash Bandicoot 3: Warped,PS,1998.0,Platform,Sony Computer Entertainment,3.68,1.75,1.42,0.28,7.13,91.0,12.0,8.9,432.0,Naughty Dog,E
+73,2006-02-01,4.8,Low,2006,February,Mario Kart 8,WiiU,2014.0,Racing,Nintendo,3.15,2.15,1.28,0.51,7.09,88.0,82.0,9.1,1599.0,Nintendo,E
+74,2006-03-01,4.7,Low,2006,March,Super Smash Bros. Melee,GC,2001.0,Fighting,Nintendo,4.41,1.04,1.39,0.22,7.07,92.0,38.0,9.1,568.0,HAL Labs,T
+75,2006-04-01,4.7,Low,2006,April,Need for Speed Underground 2,PS2,2004.0,Racing,Electronic Arts,2.71,3.02,0.08,1.09,6.9,82.0,39.0,8.6,132.0,EA Canada,E
+76,2006-05-01,4.6,Low,2006,May,Medal of Honor: Frontline,PS2,2002.0,Shooter,Electronic Arts,2.93,2.75,0.17,0.99,6.83,88.0,29.0,8.5,135.0,EA LA,T
+77,2006-06-01,4.6,Low,2006,June,Just Dance 4,Wii,2012.0,Misc,Ubisoft,4.05,2.16,0.0,0.55,6.76,74.0,10.0,7.3,28.0,Ubisoft,E10+
+78,2006-07-01,4.7,Low,2006,July,Gears of War 2,X360,2008.0,Shooter,Microsoft Game Studios,4.15,1.9,0.06,0.64,6.75,93.0,90.0,7.7,2739.0,Epic Games,M
+79,2006-08-01,4.7,Low,2006,August,Uncharted 3: Drake's Deception,PS3,2011.0,Action,Sony Computer Entertainment,2.77,2.75,0.19,1.03,6.74,92.0,97.0,8.3,3712.0,Naughty Dog,T
+80,2006-09-01,4.5,Low,2006,September,Call of Duty 4: Modern Warfare,PS3,2007.0,Shooter,Activision,3.11,2.26,0.28,1.03,6.68,94.0,44.0,8.4,993.0,Infinity Ward,M
+81,2006-10-01,4.4,Low,2006,October,Uncharted 2: Among Thieves,PS3,2009.0,Action,Sony Computer Entertainment,3.27,2.2,0.21,0.98,6.66,96.0,105.0,8.8,5187.0,Naughty Dog,T
+82,2006-11-01,4.5,Low,2006,November,Big Brain Academy,DS,2005.0,Misc,Nintendo,1.66,2.75,1.6,0.62,6.62,74.0,45.0,7.4,27.0,Nintendo,E
+83,2006-12-01,4.4,Low,2006,December,Red Dead Redemption,PS3,2010.0,Action,Take-Two Interactive,2.79,2.53,0.17,0.99,6.49,95.0,73.0,8.8,2456.0,Rockstar San Diego,M
+84,2007-01-01,4.6,Low,2007,January,FIFA 14,PS3,2013.0,Sports,Electronic Arts,0.78,4.24,0.07,1.37,6.47,86.0,37.0,4.3,576.0,EA Canada,E
+85,2007-02-01,4.5,Low,2007,February,Assassin's Creed III,PS3,2012.0,Action,Ubisoft,2.64,2.52,0.16,1.12,6.45,85.0,41.0,6.9,1307.0,Ubisoft,M
+86,2007-03-01,4.4,Low,2007,March,Donkey Kong Country Returns,Wii,2010.0,Platform,Nintendo,3.17,1.79,1.03,0.46,6.44,87.0,77.0,8.6,368.0,Retro Studios,E
+87,2007-04-01,4.5,Low,2007,April,Halo: Combat Evolved,XB,2001.0,Shooter,Microsoft Game Studios,4.98,1.3,0.08,0.07,6.43,97.0,68.0,8.6,1283.0,Bungie Software,M
+88,2007-05-01,4.4,Low,2007,May,The Elder Scrolls V: Skyrim,PS3,2011.0,Role-Playing,Bethesda Softworks,2.55,2.6,0.25,1.0,6.41,92.0,16.0,6.4,2527.0,Bethesda Game Studios,M
+89,2007-06-01,4.6,Low,2007,June,Pokémon Emerald Version,GBA,2004.0,Role-Playing,Nintendo,2.57,1.58,2.06,0.21,6.41,76.0,28.0,9.0,222.0,Game Freak,E
+90,2007-07-01,4.7,Low,2007,July,Kingdom Hearts,PS2,2002.0,Role-Playing,Sony Computer Entertainment,3.64,1.2,1.49,0.07,6.4,85.0,46.0,8.8,597.0,SquareSoft,E
+91,2007-08-01,4.6,Low,2007,August,Halo 3: ODST,X360,2009.0,Shooter,Microsoft Game Studios,4.34,1.34,0.06,0.61,6.34,83.0,94.0,7.1,1163.0,"Bungie Software, Bungie",M
+92,2007-09-01,4.7,Low,2007,September,Red Dead Redemption,X360,2010.0,Action,Take-Two Interactive,3.7,1.95,0.09,0.58,6.32,95.0,96.0,9.0,2316.0,Rockstar San Diego,M
+93,2007-10-01,4.7,Low,2007,October,Super Mario Sunshine,GC,2002.0,Platform,Nintendo,4.01,1.26,0.87,0.17,6.31,92.0,61.0,8.6,439.0,Nintendo,E
+94,2007-11-01,4.7,Low,2007,November,World of Warcraft,PC,2004.0,Role-Playing,Activision,0.08,6.21,0.0,0.0,6.29,93.0,57.0,7.3,2182.0,Blizzard Entertainment,T
+95,2007-12-01,5.0,High,2007,December,Driver,PS,1999.0,Action,GT Interactive,3.11,2.8,0.02,0.33,6.27,87.0,22.0,8.1,78.0,Reflections Interactive,T
+96,2008-01-01,5.0,High,2008,January,Gears of War 3,X360,2011.0,Shooter,Microsoft Game Studios,4.05,1.59,0.07,0.5,6.21,91.0,96.0,7.8,1504.0,Epic Games,M
+97,2008-02-01,4.9,Low,2008,February,Kinect Sports,X360,2010.0,Sports,Microsoft Game Studios,3.92,1.73,0.03,0.51,6.19,73.0,51.0,7.4,95.0,Rare Ltd.,E10+
+98,2008-03-01,5.1,High,2008,March,Gears of War,X360,2006.0,Shooter,Microsoft Game Studios,3.54,1.88,0.07,0.6,6.09,94.0,88.0,8.3,2295.0,Epic Games,M
+99,2008-04-01,5.0,High,2008,April,FIFA 15,PS4,2014.0,Sports,Electronic Arts,0.8,4.33,0.05,0.9,6.08,82.0,47.0,5.7,988.0,EA Sports,E
+100,2008-05-01,5.4,High,2008,May,Metal Gear Solid 2: Sons of Liberty,PS2,2001.0,Action,Konami Digital Entertainment,2.45,2.01,0.87,0.72,6.05,96.0,42.0,8.7,1026.0,KCEJ,M
+101,2008-06-01,5.6,High,2008,June,Metal Gear Solid,PS,1998.0,Action,Konami Digital Entertainment,3.18,1.83,0.78,0.24,6.03,94.0,20.0,9.4,918.0,KCEJ,M
+102,2008-07-01,5.8,High,2008,July,Metal Gear Solid 4: Guns of the Patriots,PS3,2008.0,Action,Konami Digital Entertainment,2.63,1.71,0.83,0.82,5.99,94.0,82.0,8.7,3558.0,Kojima Productions,M
+103,2008-08-01,6.1,High,2008,August,Final Fantasy XII,PS2,2006.0,Role-Playing,Square Enix,1.88,0.0,2.33,1.74,5.95,92.0,64.0,7.6,972.0,Square Enix,T
+104,2008-09-01,6.1,High,2008,September,The Last of Us,PS3,2013.0,Action,Sony Computer Entertainment Europe,2.41,2.18,0.28,0.99,5.87,95.0,98.0,9.1,8003.0,Naughty Dog,M
+105,2008-10-01,6.5,High,2008,October,LittleBigPlanet,PS3,2008.0,Platform,Sony Computer Entertainment,2.8,1.98,0.17,0.87,5.82,95.0,85.0,6.8,5311.0,"SCE/WWS, Media Molecule",E
+106,2008-11-01,6.8,High,2008,November,Resident Evil 2,PS,1998.0,Action,Virgin Interactive,1.88,1.47,2.02,0.45,5.82,89.0,13.0,9.2,364.0,Capcom,M
+107,2008-12-01,7.3,High,2008,December,Dragon Quest IX: Sentinels of the Starry Skies,DS,2009.0,Role-Playing,Nintendo,0.63,0.67,4.35,0.15,5.78,87.0,65.0,8.8,197.0,Level 5,E10+
+108,2009-01-01,7.8,High,2009,January,Tekken 2,PS,1996.0,Fighting,Sony Computer Entertainment,2.26,1.89,1.36,0.23,5.74,89.0,8.0,8.9,102.0,Namco,T
+109,2009-02-01,8.3,High,2009,February,Destiny,PS4,2014.0,Shooter,Activision,2.49,2.07,0.16,0.92,5.64,76.0,95.0,6.1,5380.0,"Bungie Software, Bungie",T
+110,2009-03-01,8.7,High,2009,March,LEGO Star Wars: The Complete Saga,Wii,2007.0,Action,LucasArts,3.57,1.55,0.0,0.51,5.64,80.0,17.0,8.9,62.0,Traveller's Tales,E10+
+111,2009-04-01,9.0,High,2009,April,Cooking Mama,DS,2006.0,Simulation,505 Games,3.07,1.91,0.07,0.57,5.63,67.0,35.0,7.2,21.0,Taito Corporation,E
+112,2009-05-01,9.4,High,2009,May,Assassin's Creed II,PS3,2009.0,Action,Ubisoft,2.54,1.93,0.21,0.86,5.55,91.0,70.0,8.6,1202.0,Ubisoft Montreal,M
+113,2009-06-01,9.5,High,2009,June,Assassin's Creed,X360,2007.0,Adventure,Ubisoft,3.28,1.64,0.07,0.56,5.54,81.0,77.0,7.7,1074.0,Ubisoft Montreal,M
+114,2009-07-01,9.5,High,2009,July,Forza Motorsport 3,X360,2009.0,Racing,Microsoft Game Studios,2.99,1.9,0.1,0.5,5.49,92.0,90.0,8.0,516.0,Turn 10,E
+115,2009-08-01,9.6,High,2009,August,Super Mario Advance,GBA,2001.0,Platform,Nintendo,3.14,1.24,0.91,0.2,5.49,84.0,19.0,7.8,41.0,Nintendo,E
+116,2009-09-01,9.8,High,2009,September,Monster Hunter Freedom Unite,PSP,2008.0,Role-Playing,Capcom,0.47,0.55,4.13,0.34,5.48,81.0,48.0,8.7,124.0,Capcom,T
+117,2009-10-01,10.0,High,2009,October,Batman: Arkham City,PS3,2011.0,Action,Warner Bros. Interactive Entertainment,2.71,1.85,0.11,0.81,5.48,96.0,42.0,8.6,2162.0,Rocksteady Studios,T
+118,2009-11-01,9.9,High,2009,November,Grand Theft Auto V,XOne,2014.0,Action,Take-Two Interactive,2.81,2.19,0.0,0.47,5.48,97.0,14.0,7.9,764.0,Rockstar North,M
+119,2009-12-01,9.9,High,2009,December,Mario Kart: Super Circuit,GBA,2001.0,Racing,Nintendo,2.62,1.64,0.99,0.23,5.47,93.0,24.0,8.3,108.0,Intelligent Systems,E
+120,2010-01-01,9.8,High,2010,January,Crash Bandicoot: The Wrath of Cortex,PS2,2001.0,Platform,Universal Interactive,2.07,2.29,0.24,0.82,5.42,66.0,22.0,7.1,156.0,Traveller's Tales,E
+121,2010-02-01,9.8,High,2010,February,Call of Duty: World at War,PS3,2008.0,Shooter,Activision,2.73,1.83,0.0,0.83,5.39,85.0,45.0,7.6,409.0,Treyarch,M
+122,2010-03-01,9.9,High,2010,March,Uncharted 4: A Thief's End,PS4,2016.0,Shooter,Sony Computer Entertainment,1.85,2.5,0.19,0.85,5.38,93.0,113.0,7.9,7064.0,Naughty Dog,T
+123,2010-04-01,9.9,High,2010,April,Final Fantasy XIII,PS3,2009.0,Role-Playing,Square Enix,1.74,1.21,1.87,0.51,5.33,83.0,83.0,7.3,2483.0,Square Enix,T
+124,2010-05-01,9.6,High,2010,May,Final Fantasy IX,PS,2000.0,Role-Playing,SquareSoft,1.62,0.77,2.78,0.14,5.3,94.0,22.0,8.9,779.0,SquareSoft,T
+125,2010-06-01,9.4,High,2010,June,Assassin's Creed III,X360,2012.0,Action,Ubisoft,3.13,1.69,0.03,0.44,5.29,84.0,61.0,6.7,1196.0,Ubisoft,M
+126,2010-07-01,9.4,High,2010,July,Final Fantasy X-2,PS2,2003.0,Role-Playing,Electronic Arts,1.92,1.08,2.11,0.17,5.29,85.0,45.0,6.6,400.0,SquareSoft,T
+127,2010-08-01,9.5,High,2010,August,Call of Duty: Advanced Warfare,XOne,2014.0,Shooter,Activision,3.22,1.55,0.01,0.48,5.27,81.0,53.0,5.4,898.0,Sledgehammer Games,M
+128,2010-09-01,9.5,High,2010,September,Assassin's Creed II,X360,2009.0,Action,Ubisoft,3.11,1.55,0.08,0.51,5.26,90.0,82.0,8.8,1305.0,Ubisoft Montreal,M
+129,2010-10-01,9.4,High,2010,October,New Super Mario Bros. U,WiiU,2012.0,Platform,Nintendo,2.3,1.34,1.27,0.32,5.22,84.0,70.0,8.1,733.0,Nintendo,E
+130,2010-11-01,9.8,High,2010,November,Dragon Quest VIII: Journey of the Cursed King,PS2,2004.0,Role-Playing,Square Enix,0.65,0.75,3.61,0.2,5.21,89.0,63.0,8.8,245.0,Level 5,T
+131,2010-12-01,9.3,High,2010,December,Professor Layton and the Curious Village,DS,2007.0,Puzzle,Nintendo,1.21,2.43,1.03,0.52,5.19,85.0,72.0,8.6,147.0,Level 5,E
+132,2011-01-01,9.1,High,2011,January,FIFA Soccer 13,X360,2012.0,Action,Electronic Arts,1.09,3.47,0.03,0.57,5.16,90.0,48.0,6.1,403.0,Electronic Arts,E
+133,2011-02-01,9.0,High,2011,February,Diablo III,PC,2012.0,Role-Playing,Activision,2.44,2.16,0.0,0.54,5.14,88.0,86.0,4.0,9629.0,Blizzard Entertainment,M
+134,2011-03-01,9.0,High,2011,March,Medal of Honor: Rising Sun,PS2,2003.0,Shooter,Electronic Arts,1.98,2.23,0.13,0.8,5.13,68.0,30.0,7.6,100.0,EA LA,T
+135,2011-04-01,9.1,High,2011,April,Guitar Hero II,PS2,2006.0,Misc,RedOctane,3.81,0.63,0.0,0.68,5.12,92.0,69.0,8.5,112.0,Harmonix Music Systems,T
+136,2011-05-01,9.0,High,2011,May,Fable III,X360,2010.0,Role-Playing,Microsoft Game Studios,3.59,1.08,0.05,0.38,5.1,80.0,88.0,6.5,604.0,Lionhead Studios,M
+137,2011-06-01,9.1,High,2011,June,Resident Evil 5,PS3,2009.0,Action,Capcom,1.96,1.41,1.08,0.64,5.09,84.0,76.0,7.5,667.0,Capcom,M
+138,2011-07-01,9.0,High,2011,July,The Legend of Zelda: Phantom Hourglass,DS,2007.0,Action,Nintendo,1.85,1.8,0.95,0.48,5.08,90.0,57.0,8.0,416.0,Nintendo,E
+139,2011-08-01,9.0,High,2011,August,FIFA Soccer 11,PS3,2010.0,Sports,Electronic Arts,0.61,3.28,0.06,1.12,5.07,89.0,51.0,8.0,233.0,EA Sports,E
+140,2011-09-01,9.0,High,2011,September,Resident Evil,PS,1996.0,Action,Virgin Interactive,2.05,1.16,1.11,0.73,5.05,91.0,8.0,9.0,266.0,Capcom,M
+141,2011-10-01,8.8,High,2011,October,Grand Theft Auto: Vice City Stories,PSP,2006.0,Action,Take-Two Interactive,1.7,1.99,0.16,1.18,5.03,86.0,50.0,8.0,150.0,Rockstar Leeds,M
+142,2011-11-01,8.6,High,2011,November,Tony Hawk's Pro Skater,PS,1999.0,Sports,Activision,3.42,1.38,0.02,0.2,5.02,92.0,18.0,9.2,69.0,Neversoft Entertainment,T
+143,2011-12-01,8.5,High,2011,December,Guitar Hero III: Legends of Rock,PS2,2007.0,Misc,Activision,3.49,0.01,0.01,1.48,4.98,82.0,24.0,8.2,46.0,"Neversoft Entertainment, BudCat",T
+144,2012-01-01,8.3,High,2012,January,Link's Crossbow Training,Wii,2007.0,Shooter,Nintendo,3.05,1.17,0.29,0.46,4.98,68.0,34.0,7.1,47.0,Nintendo,T
+145,2012-02-01,8.3,High,2012,February,Fallout 3,X360,2008.0,Role-Playing,Bethesda Softworks,3.4,0.99,0.09,0.45,4.93,93.0,84.0,8.5,1655.0,Bethesda Game Studios,M
+146,2012-03-01,8.2,High,2012,March,Uncharted: Drake's Fortune,PS3,2007.0,Action,Sony Computer Entertainment,2.31,1.72,0.12,0.77,4.92,88.0,66.0,8.1,2306.0,"Naughty Dog, SCE/WWS",T
+147,2012-04-01,8.2,High,2012,April,Madden NFL 06,PS2,2005.0,Sports,Electronic Arts,3.98,0.26,0.01,0.66,4.91,88.0,29.0,8.0,121.0,EA Sports,E
+148,2012-05-01,8.2,High,2012,May,StarCraft II: Wings of Liberty,PC,2010.0,Strategy,Activision,2.57,1.68,0.0,0.58,4.84,93.0,82.0,8.2,3052.0,Blizzard Entertainment,T
+149,2012-06-01,8.2,High,2012,June,Assassin's Creed,PS3,2007.0,Adventure,Ubisoft,1.91,2.0,0.09,0.82,4.82,81.0,40.0,7.3,769.0,Ubisoft Montreal,M
+150,2012-07-01,8.2,High,2012,July,God of War III,PS3,2010.0,Action,Sony Computer Entertainment,2.74,1.33,0.12,0.61,4.8,92.0,101.0,8.7,2633.0,SCE Santa Monica,M
+151,2012-08-01,8.1,High,2012,August,Crash Team Racing,PS,1999.0,Racing,Sony Computer Entertainment,2.57,1.57,0.44,0.21,4.79,88.0,20.0,9.0,233.0,Naughty Dog,E
+152,2012-09-01,7.8,High,2012,September,LEGO Star Wars: The Complete Saga,DS,2007.0,Action,LucasArts,2.83,1.48,0.0,0.45,4.76,80.0,9.0,5.4,46.0,TT Fusion,E
+153,2012-10-01,7.8,High,2012,October,Driver 2,PS,2000.0,Action,Atari,2.36,2.1,0.02,0.25,4.73,62.0,14.0,7.7,92.0,Reflections Interactive,T
+154,2012-11-01,7.7,High,2012,November,Batman: Arkham City,X360,2011.0,Action,Warner Bros. Interactive Entertainment,2.99,1.27,0.04,0.42,4.73,94.0,87.0,8.7,1472.0,Rocksteady Studios,T
+155,2012-12-01,7.9,High,2012,December,Tony Hawk's Pro Skater 2,PS,2000.0,Sports,Activision,3.05,1.41,0.02,0.2,4.68,98.0,19.0,7.7,299.0,Neversoft Entertainment,T
+156,2013-01-01,8.0,High,2013,January,The Lord of the Rings: The Two Towers,PS2,2002.0,Action,Electronic Arts,1.94,1.95,0.08,0.7,4.67,82.0,32.0,8.2,78.0,Stormfront Studios,T
+157,2013-02-01,7.7,High,2013,February,Tomb Raider,PS,1996.0,Action,Eidos Interactive,2.29,1.97,0.13,0.24,4.63,91.0,13.0,8.6,147.0,Core Design Ltd.,T
+158,2013-03-01,7.5,High,2013,March,Animal Crossing: City Folk,Wii,2008.0,Simulation,Nintendo,1.82,1.12,1.32,0.36,4.62,73.0,50.0,7.6,119.0,Nintendo,E
+159,2013-04-01,7.6,High,2013,April,Uncharted: The Nathan Drake Collection,PS4,2015.0,Action,Sony Computer Entertainment,2.07,1.71,0.08,0.76,4.62,86.0,78.0,8.1,1264.0,Bluepoint Games,T
+160,2013-05-01,7.5,High,2013,May,The Legend of Zelda: The Wind Waker,GC,2002.0,Action,Nintendo,2.6,0.99,0.89,0.13,4.6,96.0,80.0,8.9,968.0,Nintendo,E
+161,2013-06-01,7.5,High,2013,June,Guitar Hero III: Legends of Rock,Wii,2007.0,Misc,Activision,3.04,1.11,0.0,0.43,4.6,86.0,36.0,8.4,87.0,Vicarious Visions,T
+162,2013-07-01,7.3,High,2013,July,Luigi's Mansion: Dark Moon,3DS,2013.0,Action,Nintendo,1.8,1.39,1.11,0.29,4.59,86.0,74.0,8.4,458.0,Next Level Games,E
+163,2013-08-01,7.2,High,2013,August,Forza Motorsport 4,X360,2011.0,Racing,Microsoft Game Studios,2.08,1.97,0.06,0.46,4.57,91.0,83.0,8.2,617.0,Turn 10,E
+164,2013-09-01,7.2,High,2013,September,Madden NFL 2005,PS2,2004.0,Sports,Electronic Arts,4.18,0.26,0.01,0.08,4.53,91.0,30.0,7.9,78.0,EA Tiburon,E
+165,2013-10-01,7.2,High,2013,October,Guitar Hero III: Legends of Rock,X360,2007.0,Misc,Activision,3.19,0.91,0.01,0.42,4.53,85.0,69.0,7.9,165.0,Neversoft Entertainment,T
+166,2013-11-01,6.9,High,2013,November,Madden NFL 07,PS2,2006.0,Sports,Electronic Arts,3.63,0.24,0.01,0.61,4.49,84.0,29.0,8.2,39.0,EA Sports,E
+167,2013-12-01,6.7,High,2013,December,Halo 5: Guardians,XOne,2015.0,Shooter,Microsoft Game Studios,2.78,1.27,0.03,0.41,4.48,84.0,101.0,6.4,2438.0,343 Industries,T
+168,2014-01-01,6.6,High,2014,January,Spider-Man: The Movie,PS2,2002.0,Action,Activision,2.71,1.51,0.03,0.23,4.48,76.0,25.0,7.9,41.0,Treyarch,E
+169,2014-02-01,6.7,High,2014,February,Call of Duty: Infinite Warfare,PS4,2016.0,Shooter,Activision,1.61,2.0,0.15,0.71,4.46,77.0,82.0,3.4,1129.0,Infinity Ward,M
+170,2014-03-01,6.7,High,2014,March,God of War,PS2,2005.0,Action,Sony Computer Entertainment,2.71,1.29,0.02,0.43,4.45,94.0,75.0,8.9,997.0,SCE Santa Monica,M
+171,2014-04-01,6.2,High,2014,April,Splatoon,WiiU,2015.0,Shooter,Nintendo,1.54,1.18,1.46,0.26,4.43,81.0,88.0,8.5,1184.0,Nintendo,E10+
+172,2014-05-01,6.3,High,2014,May,Nintendo Land,WiiU,2012.0,Misc,Nintendo,2.52,1.11,0.46,0.33,4.42,77.0,61.0,7.9,471.0,Nintendo,E10+
+173,2014-06-01,6.1,High,2014,June,Tony Hawk's Pro Skater 3,PS2,2001.0,Sports,Activision,2.66,1.29,0.01,0.46,4.41,97.0,34.0,7.5,298.0,Neversoft Entertainment,T
+174,2014-07-01,6.2,High,2014,July,Winning Eleven: Pro Evolution Soccer 2007,PS2,2006.0,Sports,Konami Digital Entertainment,0.1,2.39,1.05,0.86,4.39,86.0,19.0,8.9,33.0,Konami,E
+175,2014-08-01,6.1,High,2014,August,The Elder Scrolls IV: Oblivion,X360,2006.0,Role-Playing,Take-Two Interactive,2.82,1.03,0.13,0.4,4.38,94.0,90.0,8.7,1109.0,Bethesda Softworks,M
+176,2014-09-01,5.9,High,2014,September,Need for Speed: Most Wanted,PS2,2005.0,Racing,Electronic Arts,2.03,1.79,0.08,0.47,4.37,82.0,36.0,9.1,137.0,EA Canada,T
+177,2014-10-01,5.7,High,2014,October,Michael Jackson: The Experience,Wii,2010.0,Misc,Ubisoft,2.64,1.33,0.01,0.39,4.36,56.0,37.0,8.3,31.0,"Ubisoft Paris, Ubisoft Montpellier",E10+
+178,2014-11-01,5.8,High,2014,November,Resistance: Fall of Man,PS3,2006.0,Shooter,Sony Computer Entertainment,1.74,1.72,0.14,0.75,4.34,86.0,70.0,8.1,715.0,Insomniac Games,M
+179,2014-12-01,5.6,High,2014,December,Kingdom Hearts II,PS2,2005.0,Role-Playing,Square Enix,2.2,0.58,1.38,0.17,4.33,87.0,64.0,9.0,766.0,Square Enix,E10+
+180,2015-01-01,5.7,High,2015,January,Super Mario 3D World,WiiU,2013.0,Platform,Nintendo,2.11,1.16,0.73,0.32,4.32,93.0,83.0,9.0,1607.0,Nintendo,E
+181,2015-02-01,5.5,High,2015,February,Fable II,X360,2008.0,Role-Playing,Microsoft Game Studios,2.51,1.24,0.11,0.41,4.27,89.0,95.0,6.5,2423.0,Lionhead Studios,M
+182,2015-03-01,5.4,High,2015,March,Namco Museum,GBA,2001.0,Misc,Namco Bandai Games,3.0,1.11,0.05,0.07,4.24,79.0,10.0,7.3,6.0,Mass Media,E
+183,2015-04-01,5.4,High,2015,April,Batman: Arkham Asylum,PS3,2009.0,Action,Eidos Interactive,2.24,1.31,0.07,0.61,4.23,91.0,70.0,8.9,1122.0,Rocksteady Studios,T
+184,2015-05-01,5.6,High,2015,May,Metal Gear Solid 3: Snake Eater,PS2,2004.0,Action,Konami Digital Entertainment,1.46,0.0,0.83,1.93,4.23,91.0,68.0,9.3,955.0,KCEJ,M
+185,2015-06-01,5.3,High,2015,June,Assassin's Creed: Revelations,PS3,2011.0,Action,Ubisoft,1.41,2.01,0.1,0.7,4.22,80.0,39.0,7.5,613.0,Ubisoft Montreal,M
+186,2015-07-01,5.2,High,2015,July,Fallout 4,XOne,2015.0,Role-Playing,Bethesda Softworks,2.51,1.32,0.01,0.38,4.22,88.0,39.0,6.2,1749.0,Bethesda Game Studios,M
+187,2015-08-01,5.1,High,2015,August,FIFA 14,X360,2013.0,Sports,Electronic Arts,0.92,2.89,0.01,0.4,4.22,84.0,41.0,4.2,435.0,EA Canada,E
+188,2015-09-01,5.0,High,2015,September,Daxter,PSP,2006.0,Platform,Sony Computer Entertainment,2.45,1.01,0.0,0.75,4.21,85.0,59.0,8.7,109.0,Ready at Dawn,E10+
+189,2015-10-01,5.0,High,2015,October,FIFA Soccer 06,PS2,2005.0,Sports,Electronic Arts,0.78,2.55,0.04,0.84,4.21,80.0,32.0,7.8,47.0,EA Canada,E
+190,2015-11-01,5.1,High,2015,November,EyeToy Play,PS2,2003.0,Misc,Sony Computer Entertainment,0.88,2.3,0.2,0.83,4.2,80.0,32.0,7.5,22.0,"SCEE, Zoe Mode",E
+191,2015-12-01,5.0,High,2015,December,Gran Turismo 5 Prologue,PS3,2007.0,Racing,Sony Computer Entertainment,1.28,1.82,0.57,0.52,4.19,80.0,67.0,7.1,120.0,Polyphony Digital,E
+192,2016-01-01,4.8,Low,2016,January,Assassin's Creed: Revelations,X360,2011.0,Action,Ubisoft,2.25,1.47,0.04,0.43,4.19,80.0,77.0,7.2,564.0,Ubisoft Montreal,M
+193,2016-02-01,4.9,Low,2016,February,Street Fighter IV,PS3,2009.0,Fighting,Capcom,2.03,1.04,0.58,0.52,4.16,94.0,61.0,7.3,330.0,Capcom,T
+194,2016-03-01,5.0,High,2016,March,Madden NFL 2003,PS2,2002.0,Sports,Electronic Arts,3.36,0.21,0.01,0.56,4.14,95.0,25.0,7.7,65.0,EA Sports,E
+195,2016-04-01,5.1,High,2016,April,Half-Life,PC,1997.0,Shooter,Vivendi Games,4.03,0.0,0.09,0.0,4.12,96.0,24.0,9.1,3161.0,Valve Software,M
+196,2016-05-01,4.8,Low,2016,May,World of Warcraft: The Burning Crusade,PC,2007.0,Role-Playing,Activision,2.57,1.52,0.0,0.0,4.09,91.0,46.0,7.9,785.0,Blizzard Entertainment,T
+197,2016-06-01,4.9,Low,2016,June,Battlefield 1,PS4,2016.0,Shooter,Electronic Arts,1.1,2.15,0.21,0.61,4.08,88.0,31.0,8.4,809.0,EA DICE,M
+198,2016-07-01,4.8,Low,2016,July,God of War II,PS2,2007.0,Action,Sony Computer Entertainment,2.32,0.04,0.04,1.67,4.07,93.0,70.0,8.9,709.0,SCE Santa Monica,M
+199,2016-08-01,4.9,Low,2016,August,Fallout: New Vegas,X360,2010.0,Role-Playing,Bethesda Softworks,2.66,1.03,0.04,0.33,4.05,84.0,81.0,8.1,769.0,Obsidian Entertainment,M
+200,2016-09-01,5.0,High,2016,September,Forza Motorsport 2,X360,2007.0,Racing,Microsoft Game Studios,2.35,1.27,0.03,0.41,4.05,90.0,66.0,8.3,381.0,Turn 10,E
+201,2016-10-01,4.9,Low,2016,October,Carnival Games,Wii,2007.0,Misc,Take-Two Interactive,2.12,1.47,0.05,0.42,4.05,56.0,27.0,6.0,44.0,Cat Daddy Games,E
+202,2016-11-01,4.7,Low,2016,November,Watch Dogs,PS4,2014.0,Action,Ubisoft,1.4,1.9,0.11,0.64,4.05,80.0,80.0,6.3,2996.0,Ubisoft Montreal,M
+203,2016-12-01,4.7,Low,2016,December,Tekken Tag Tournament,PS2,2000.0,Fighting,Namco Bandai Games,1.68,1.51,0.51,0.35,4.05,85.0,25.0,8.5,117.0,Namco,T
+204,2017-01-01,4.7,Low,2017,January,Far Cry 4,PS4,2014.0,Shooter,Ubisoft,1.13,2.18,0.1,0.63,4.04,85.0,83.0,7.7,1653.0,Ubisoft Montreal,M
+205,2017-02-01,4.6,Low,2017,February,Left 4 Dead 2,X360,2009.0,Shooter,Electronic Arts,2.67,0.87,0.05,0.38,3.97,89.0,76.0,8.6,681.0,Valve Software,M
+206,2017-03-01,4.4,Low,2017,March,The Witcher 3: Wild Hunt,PS4,2015.0,Role-Playing,Namco Bandai Games,1.02,2.13,0.23,0.59,3.97,92.0,79.0,9.2,10179.0,CD Projekt Red Studio,M
+207,2017-04-01,4.4,Low,2017,April,Assassin's Creed: Unity,PS4,2014.0,Action,Ubisoft,1.19,2.07,0.08,0.62,3.96,70.0,40.0,4.9,2050.0,"Ubisoft, Ubisoft Montreal",M
+208,2017-05-01,4.4,Low,2017,May,Batman: Arkham Knight,PS4,2015.0,Action,Warner Bros. Interactive Entertainment,1.53,1.69,0.1,0.64,3.95,87.0,89.0,7.6,2679.0,Rocksteady Studios,M
+209,2017-06-01,4.3,Low,2017,June,The Legend of Zelda: Skyward Sword,Wii,2011.0,Action,Nintendo,2.03,1.16,0.37,0.38,3.95,93.0,81.0,8.0,1958.0,Nintendo,E10+
+210,2017-07-01,4.3,Low,2017,July,Fallout 3,PS3,2008.0,Role-Playing,Bethesda Softworks,2.15,1.13,0.07,0.59,3.94,90.0,57.0,8.0,910.0,Bethesda Game Studios,M
+211,2017-08-01,4.4,Low,2017,August,Professor Layton and the Diabolical Box,DS,2007.0,Puzzle,Nintendo,0.9,1.76,0.92,0.37,3.94,84.0,65.0,8.8,72.0,Level 5,E10+
+212,2017-09-01,4.3,Low,2017,September,EA Sports Active,Wii,2009.0,Sports,Electronic Arts,2.09,1.35,0.06,0.4,3.9,81.0,27.0,8.7,39.0,EA Canada,E
+213,2017-10-01,4.2,Low,2017,October,Tony Hawk's Underground,PS2,2003.0,Sports,Activision,2.29,1.17,0.01,0.42,3.9,90.0,38.0,8.7,121.0,Neversoft Entertainment,T
+214,2017-11-01,4.2,Low,2017,November,Monster Hunter 4 Ultimate,3DS,2014.0,Role-Playing,Nintendo,0.68,0.48,2.62,0.11,3.89,86.0,80.0,8.7,348.0,Capcom,T
+215,2017-12-01,4.1,Low,2017,December,The Elder Scrolls V: Skyrim,PC,2011.0,Role-Playing,Bethesda Softworks,1.16,2.12,0.0,0.6,3.88,94.0,32.0,8.1,9073.0,Bethesda Game Studios,M
+216,2018-01-01,4.0,Low,2018,January,NBA 2K16,PS4,2015.0,Sports,Take-Two Interactive,2.49,0.66,0.03,0.69,3.88,87.0,51.0,6.7,364.0,Visual Concepts,E10+
