@@ -2,7 +2,7 @@
 
 ![image](https://user-images.githubusercontent.com/117672086/218849242-e840aad4-97f4-471b-b07c-c3fc65b23670.png)
 
-The Invasion of Remote Work and Videogames
+The Invasion of Unemployment and Videogames
 
 Main Question:
 Is there an increase or decrease in video gaming within the United States?
